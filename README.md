@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @rochamrcs
-- 🌎 I'm from rio de janeiro and I'm studying software engineering
-- 🐍 I'm learning the python language and here you can follow my development and ideas
--    >>>print("Hello Wolrd")
+ <h1>👋 Hi, I’m @rochamrcs</h1>
+ 
+ 🌎 I'm from rio de janeiro and I'm studying software engineering
+ 
+ 🐍 I'm learning the python language and here you can follow my development and ideas
+ 
+    >>>print("Hello Wolrd")
 
 
-- 📣 You can contact me here or if you prefer on my discord rochamarcs#9856
-- 🎉 So welcome and lets create toguether 
+ 📣 You can contact me on:
 
-<!---
-rochamrcs/rochamrcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   <a href="https://t.me/z3R10"><img src="https://tinyurl.com/bt9u6y3u" class="media-object  img-responsive img-thumbnail"></a>
+    <a href="https://www.linkedin.com/in/rocha-marcos/"><img src="https://tinyurl.com/jjrnpdhu" class="media-object  img-responsive img-thumbnail"></a>
+
+ 🎉 So welcome and lets create toguether 
+
+
