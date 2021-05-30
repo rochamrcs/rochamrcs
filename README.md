@@ -9,8 +9,8 @@
 
  📣 You can contact me on:
 
-   <a href="https://t.me/z3R10"><img src="https://tinyurl.com/bt9u6y3u" class="media-object  img-responsive img-thumbnail"></a>
-    <a href="https://www.linkedin.com/in/rocha-marcos/"><img src="https://tinyurl.com/jjrnpdhu" class="media-object  img-responsive img-thumbnail"></a>
+   <a href="https://t.me/z3R10"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+    <a href="https://www.linkedin.com/in/rocha-marcos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
 
  🎉 So welcome and lets create toguether 
 
