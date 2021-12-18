@@ -1,6 +1,7 @@
  <h1>👋 Hi, I’m @rochamrcs</h1>
  
  🌎 I'm from rio de janeiro and I'm studying software engineering
+ 
  ♻ I'm a logistical professional in career transition
  
  🚀 Here you can follow my development
