@@ -1,11 +1,9 @@
  <h1>👋 Hi, I’m @rochamrcs</h1>
  
  🌎 I'm from rio de janeiro and I'm studying software engineering
+ ♻ I'm a logistical professional in career transition
  
- 🐍 I'm learning the python language and here you can follow my development and ideas
- 
-    >>>print("Hello Wolrd")
-
+ 🚀 Here you can follow my development
 
  📣 You can contact me on:
 
