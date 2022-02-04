@@ -17,12 +17,28 @@
       rel="stylesheet"
     />
     <title>Marcos Rocha</title>
+    <link rel="stylesheet" href="assets/style.css" />
   </head>
   <body>
     <header id="header">
       <nav class="container">
         <a class="logo" href="#"> print('<span>Marcos Rocha</span>')</a>
-        <div class="menu">...</div>
+
+        <!--Menu-->
+
+        <div class="menu">
+          <ul class="grid">
+            <li><a class="title" href="#home">Inicio</a></li>
+            <li><a class="title" href="#about">Sobre</a></li>
+            <li><a class="title" href="#projetos">Projetos</a></li>
+            <li><a class="title" href="#contato">Contato</a></li>
+          </ul>
+        </div>
+
+        <!--Fim do Menu-->
+
+        <div class="toggle icon-menu"></div>
+        <div class="toggle icon-cross"></div>
       </nav>
     </header>
 
@@ -42,9 +58,23 @@
 
       <div class="divider-one"></div>
 
-      <section class="section">
-        <div class="container">Outra Seção</div>
+      <section class="section" id="about">
+        <div class="container grid">Sobre</div>
+      </section>
+
+      <div class="divider-one"></div>
+
+      <section class="section" id="projetos">
+        <div class="container grid">Projetos</div>
+      </section>
+
+      <div class="divider-one"></div>
+
+      <section class="section" id="contato">
+        <div class="container grid">Contato</div>
       </section>
     </main>
+
+    <script src="main.js"></script>
   </body>
 </html>
