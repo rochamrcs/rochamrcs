@@ -1,9 +1,12 @@
 # 💫About Me :
+
+Atualmente estou estudando as linguagens Python e JS. E cursando Engenharia de Software.
+
 Trabalho com desenvolvimento de RPA.<br />
 
 Contribuo com a digitalização e inovação em um dos maiores operadores logísticos do mundo.
 
-Atualmente estou estudando as linguagens Python e JS.
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/rochamarcs#9856) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rocha-marcos/) 
