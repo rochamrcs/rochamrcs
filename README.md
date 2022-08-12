@@ -2,9 +2,8 @@
 
 Atualmente estou estudando as linguagens Python e JS. E cursando Engenharia de Software.
 
-Trabalho com desenvolvimento de RPA.<br />
-
-Contribuo com a digitalização e inovação em um dos maiores operadores logísticos do mundo.
+Trabalho com desenvolvimento de RPA e aplicativos com PowerApps,
+contribuindo com a digitalização e inovação em um dos maiores operadores logísticos do mundo.
 
 
 
