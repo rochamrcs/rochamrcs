@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Marcos Rocha from Queimados - RJ<br><br>- 🔭 I work as a developer<br>- 📚 I'm currently learning python, django<br>- ⚡ In my free time I like to read books, play guitar and do crossfit</p>
+<p align="left">I'm Marcos Rocha from Queimados - RJ<br><br>- 🔭 I work as a Low-code (PowerApps) and RPA (UiPath, PowerAutomate) developer<br>- 📚 I'm currently learning python, django<br>- ⚡ In my free time I like to read books, play guitar and do crossfit</p>
 
 ###
 
