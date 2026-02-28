@@ -26,11 +26,3 @@ I value clean, maintainable code and practical solutions that improve productivi
 <strong>Automation:</strong> Selenium, Pandas, UiPath<br>
 <strong>Low-Code:</strong> Power Apps, Power Automate, Power BI
 </p>
-
----
-
-<h3>Tools & Technologies</h3>
-
-<p>
-Python · Django · FastAPI · C# · .NET · PostgreSQL · JavaScript · HTML · CSS · Bootstrap
-</p>
