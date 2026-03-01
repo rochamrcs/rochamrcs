@@ -10,7 +10,7 @@ Backend Developer · Python & C# · Automation & Low-Code
 
 <p>
 Software Engineer from Brazil 🇧🇷 with experience building backend systems, process automation and business solutions.
-Focused on Python backend development, currently expanding skills in C# and .NET.
+Focused on Python backend development.
 </p>
 
 <p>
@@ -22,7 +22,7 @@ I value clean, maintainable code and practical solutions that improve productivi
 <h3>Core Skills</h3>
 
 <p>
-<strong>Backend:</strong> Python (Django, FastAPI), C#, .NET<br>
+<strong>Backend:</strong> Python (Django, FastAPI)<br>
 <strong>Automation:</strong> Selenium, Pandas, UiPath<br>
 <strong>Low-Code:</strong> Power Apps, Power Automate, Power BI
 </p>
