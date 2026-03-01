@@ -1,7 +1,7 @@
 <h1 align="center">Marcos Rocha</h1>
 
 <h3 align="center">
-Backend Developer · Python & C# · Automation & Low-Code
+Backend Developer · Pytho · Automation & Low-Code
 </h3>
 
 ---
